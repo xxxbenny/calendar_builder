@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add PaddlePaddle Docs Integrations Page (#8858)
