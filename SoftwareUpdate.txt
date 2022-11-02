@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+Update mkdocs.yml (#7693)
