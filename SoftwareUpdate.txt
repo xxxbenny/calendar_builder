@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Object Counter improvements (#8648)
