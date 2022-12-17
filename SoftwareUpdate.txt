@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
