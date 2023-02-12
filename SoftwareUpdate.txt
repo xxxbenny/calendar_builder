@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix cmake requirements for ARM64 (#8589)
