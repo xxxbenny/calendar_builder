@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fix OBB xywh-angle concatenation bug (#7404)
