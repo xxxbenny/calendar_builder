@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
