@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
