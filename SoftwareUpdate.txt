@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update format.yml to pull_request_target (#7460)
