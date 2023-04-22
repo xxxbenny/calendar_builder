@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Replace onnx2tf usage from CLI to Python (#8429)
