@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Update the heatmap module code + docs (#7045)
