@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
