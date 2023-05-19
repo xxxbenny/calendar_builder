@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Add PR Summary step to Ultralytics Actions (#7675)
