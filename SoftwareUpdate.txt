@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
