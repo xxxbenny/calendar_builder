@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fix Multi-GPU resume bug (#7328)
