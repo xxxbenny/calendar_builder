@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Hold failed upload metrics and upload with next upload metrics (#8513)
