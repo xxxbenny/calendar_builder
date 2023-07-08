@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update Docs Home and Neural Magic pages (#7243)
