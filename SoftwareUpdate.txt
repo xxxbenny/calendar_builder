@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
