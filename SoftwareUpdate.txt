@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
