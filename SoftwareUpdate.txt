@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
