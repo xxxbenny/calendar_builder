@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add C++ Classify inference example (#6868)
