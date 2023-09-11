@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+docs: update view-results-in-terminal.md (#66)
