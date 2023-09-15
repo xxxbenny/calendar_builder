@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Improve Docs Modes tables (#8266)
