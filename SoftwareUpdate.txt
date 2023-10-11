@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
