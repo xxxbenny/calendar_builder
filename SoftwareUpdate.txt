@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+fix predict with class filter
