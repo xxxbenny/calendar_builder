@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
