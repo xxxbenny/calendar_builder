@@ -1,1 +1,1 @@
-Fix test_mlflow_keep_run_active() (#8868)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
