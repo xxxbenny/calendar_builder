@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Explorer Cleanup (#7364)
