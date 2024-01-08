@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Replacing Images for torchscript.md (#8596)
