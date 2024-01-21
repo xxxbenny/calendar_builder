@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add Amazon Sagemaker Docs integrations page (#7293)
