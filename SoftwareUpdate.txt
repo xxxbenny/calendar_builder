@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Improve Coral Edge TPU guide (#8160)
