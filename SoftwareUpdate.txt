@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update the heatmap module code + docs (#7045)
