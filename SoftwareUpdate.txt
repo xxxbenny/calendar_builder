@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Merge pull request #22 from SkalskiP/patch-1
