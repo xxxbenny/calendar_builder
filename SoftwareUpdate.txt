@@ -1,1 +1,1 @@
-fix non-coco val
+Add HUB-SDK Docs reference section (#7781)
