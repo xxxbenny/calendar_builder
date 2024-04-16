@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
