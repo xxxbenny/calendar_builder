@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix docker.yaml double-quote version bug (#7452)
