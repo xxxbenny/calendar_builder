@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
