@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Update Colab notebook for YOLOv8.1 (#8660)
