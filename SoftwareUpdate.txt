@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+* fix for predicting with batch_size > 1
