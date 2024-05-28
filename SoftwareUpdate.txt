@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
