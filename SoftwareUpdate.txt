@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix TypeError in check_cfg() (#9245)
